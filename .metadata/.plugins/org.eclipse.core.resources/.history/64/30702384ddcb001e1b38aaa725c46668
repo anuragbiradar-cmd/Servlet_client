@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>welcome to the world of servlet</h1>
+<a href="add.html">click here to add </a>
+</body>
+</html>
